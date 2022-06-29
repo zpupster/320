@@ -11,3 +11,4 @@ My code was written according to best practices. I wrote small sections and then
 
  Researching users’ needs is best. Make your decisions based on data.  Think of what would be advantageous to the user. Forsee patterns and behaviours of projects and user inputs of the past or similiar projects. Whenever possible get instant feedback from users, so that you can incorporate their needs into the program ensuring the best quality you can deliver.
 
+# 320
